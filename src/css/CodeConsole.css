@@ -1,0 +1,15 @@
+.code-console {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-size: 14px;
+    border-radius: 5px;
+    position: relative;
+    max-height: 500px;
+    width: 100%;
+    overflow: auto;
+}
+
+.code {
+    font-family: Consolas, monospace;
+    padding: 0px 20px;
+}

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "NanumSquareB";
+    font-weight: 50;
+    src: url("../fonts/NanumSquareB.ttf") format("truetype");
+  }
+  
+
+  @font-face {
+    font-family: "NanumSquareR";
+    font-weight: 50;
+    src: url("../fonts/NanumSquareR.ttf") format("truetype");
+  }
+  

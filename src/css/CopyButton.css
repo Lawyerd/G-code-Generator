@@ -1,0 +1,20 @@
+.copy-button{
+    background-color: #5e5e5e;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 80px;
+    font-family: NanumSquareR;
+  
+    position:sticky;
+    top: 10px;
+    left: calc(100% - 20px - 70px); /* 20px는 버튼의 오른쪽 여백, 50px는 버튼의 너비 */
+  }
+  

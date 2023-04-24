@@ -1,0 +1,14 @@
+
+.error-console {
+    width: 100%;
+    background-color: #1e1e1e;
+    color: rgb(252, 78, 78);
+    font-size: 14px;
+    margin:0px 0px 0px 10px;
+    font-family: Consolas, monospace;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: NanumSquareR;
+    line-height: 1.5;
+  }
+  

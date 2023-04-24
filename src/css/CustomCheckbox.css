@@ -1,0 +1,25 @@
+
+/* 기본적인 스타일 */
+input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+/* 체크된 상태의 스타일 */
+input[type="checkbox"]:checked {
+  background-color: #2196f3;
+  border-color: #2196f3;
+}
+
+/* 마우스를 올렸을 때의 스타일 */
+input[type="checkbox"]:hover:not(:checked) {
+  background-color: #ccc;
+}
+
+/* 포커스됐을 때의 스타일 */
+input[type="checkbox"]:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.5);
+}
