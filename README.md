@@ -11,7 +11,7 @@ G코드를 생성하는 프로그램입니다. 리액트를 사용하여 개발�
 ## 프로젝트 실행 방법
 1. 프로젝트를 클론합니다.
 ``` bash
-git clone https://github.com/[username]/Gcode-Generator.git
+git clone https://github.com/Lawyerd/G-code-Generator.git
 ```
 2. npm 패키지를 설치합니다.
 ``` bash
