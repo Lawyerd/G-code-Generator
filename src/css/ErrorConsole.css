@@ -6,9 +6,17 @@
     font-size: 14px;
     margin:0px 0px 0px 10px;
     font-family: Consolas, monospace;
-    padding: 10px;
     border-radius: 5px;
     font-family: NanumSquareR;
     line-height: 1.5;
+
+    @media only screen and (max-width: 767px) {
+      padding:0px;
+      margin: 0px;
+    }
   }
   
+.error-message{
+  padding: 10px;
+
+}
